@@ -1,4 +1,4 @@
-# <Boot Camp Prework Study Guide Webpage>
+# Boot Camp Prework Study Guide Webpage
 
 ## Description
 
